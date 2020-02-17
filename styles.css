@@ -1,0 +1,110 @@
+body{margin: 0;
+text-align: center;}
+
+.Calculator{
+  width: 200px;
+height: 100px;
+  border-top:5px solid hsl(212, 86%, 64%);
+  margin:0;
+  padding: 70px;
+position: absolute;
+right: 170px;
+background-color: hsl(0, 0%, 98%);
+top: 350px;
+border-top-left-radius: 2%;
+border-top-right-radius: 2%;
+border-bottom-right-radius: 2%;
+border-bottom-right-radius: 2%;
+box-shadow:0.4em 0.4em 0.4em 10px hsl(229, 6%, 66%);}
+.Karma{
+  width: 200px;
+  height: 100px;
+  border-top:5px solid hsl(34, 97%, 64%);
+  margin:0;
+  padding: 70px;
+position: relative;
+left:550px;
+top:70px;
+background-color: hsl(0, 0%, 98%);
+border-top-left-radius: 2%;
+border-top-right-radius: 2%;
+border-bottom-right-radius: 2%;
+border-bottom-right-radius: 2%;
+box-shadow:0.4em 0.4em 0.4em 10px hsl(229, 6%, 66%);}
+.Team-Builder {
+width: 200px;
+height: 100px;
+border-top:5px solid hsl(0, 78%, 62%);
+margin:0;
+padding: 70px;
+position: relative;
+left:550px;
+top:30px;
+background-color: hsl(0, 0%, 98%);
+border-top-left-radius: 2%;
+border-top-right-radius: 2%;
+border-bottom-right-radius: 2%;
+border-bottom-right-radius: 2%;
+box-shadow:0.4em 0.4em 0.4em 10px hsl(229, 6%, 66%);}
+.Supervisor {
+width: 200px;
+height: 100px;
+border-top:5px solid hsl(180, 62%, 55%);
+margin:0;
+padding:70px;
+position: absolute;
+left: 170px;
+top:350px;
+background-color: hsl(0, 0%, 98%);
+border-top-left-radius: 2%;
+border-top-right-radius: 2%;
+border-bottom-right-radius: 2%;
+border-bottom-right-radius: 2%;
+box-shadow:0.4em 0.4em 0.4em 10px hsl(229, 6%, 66%);}
+.attribution{position: relative;
+top:100px;
+}
+h1{font-family: 'Poppins', sans-serif;
+}
+h2{font-family: 'Poppins', sans-serif;
+}
+h3{font-family: 'Poppins', sans-serif;
+color:hsl(229, 6%, 66%);}
+
+
+.Super{position: absolute;
+right:30px;
+bottom:30px;
+}
+h5{position: absolute;
+  top:20px;
+  left:20px;
+  font-family: 'Poppins', sans-serif;color: hsl(234, 12%, 34%);
+}
+.Builder {position: absolute;
+right:30px;
+bottom:30px;}
+.Karm {position: absolute;
+right:30px;
+bottom:30px;}
+.Calc{position: absolute;
+right:30px;
+bottom:30px;}
+p{
+font-family: 'Poppins', sans-serif; color: hsl(229, 6%, 66%);}
+#sups{text-align: left;
+position: absolute;
+left:20px;
+top:55px;}
+#calc{text-align: left;
+position: absolute;
+left:20px;
+top:55px;}
+#karm{text-align: left;
+position: absolute;
+left:20px;
+top:55px;}
+#builder{text-align:left;
+position: absolute;
+left:20px;
+top:55px;}
